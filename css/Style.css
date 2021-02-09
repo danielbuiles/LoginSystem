@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Container{
+    width: fit-content;
+    margin-left: 87%;
+}
+#InicioUsuario, #RegistroUsuario{
+   font-size: 20px;
+   padding: 6px;
+   border-radius: 9px;
+   cursor: pointer;
+   color: white;
+   background-color: #0F6F49  ;
+   border: #0F6F49 ;
+   outline: none;
+}
